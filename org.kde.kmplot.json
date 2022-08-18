@@ -19,18 +19,14 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.04.3/src/kmplot-22.04.3.tar.xz",
-                    "sha256": "b86531f6e8c24c405c5fbdeccced9b7fec65467c3ec43ac7651f8221a51c164d",
+                    "url": "https://download.kde.org/stable/release-service/22.08.0/src/kmplot-22.08.0.tar.xz",
+                    "sha256": "978e0287800a5aa4760261f3ecb9b1eababc6b6ccdf9e744c48c4f2f7feff7c4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
                         "stable-only": true,
                         "url-template": "https://download.kde.org/stable/release-service/$version/src/kmplot-$version.tar.xz"
                     }
-                },
-                {
-                    "type": "patch",
-                    "path": "oars.patch"
                 }
             ]
         }
