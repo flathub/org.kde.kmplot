@@ -23,8 +23,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.04.3/src/kmplot-26.04.3.tar.xz",
-                    "sha256": "259f72cce949cc3166275f2d2266db3432263ea2c5a7af0e2a9cf3b5a2c8a0de",
+                    "url": "https://download.kde.org/stable/release-service/26.08.1/src/kmplot-26.08.1.tar.xz",
+                    "sha256": "eee7e1c2dfe2e1a2e378871929bb70c984664291526b93c8f2984b09c12e3f1b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
